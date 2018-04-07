@@ -1,0 +1,30 @@
+
+Successfully Logged in on date 07-04-2016 and time 10:07:45
+
+Successfully Logged in on date 06-11-2017 and time 02:21:45
+
+User has seen the profile on date  06-11-2017 and time 02:21:48
+
+User has seen the profile on date  06-11-2017 and time 02:22:16
+
+Successfully Logged out on date 06-11-2017 and time 02:22:36
+
+Successfully Logged in on date 07-11-2017 and time 13:23:41
+
+User has seen the profile on date  07-11-2017 and time 13:23:43
+
+User has seen the profile on date  07-11-2017 and time 13:24:48
+
+Successfully Logged in on date 07-11-2017 and time 13:30:15
+
+Successfully Logged in on date 07-11-2017 and time 13:32:06
+
+Successfully Logged in on date 07-11-2017 and time 13:34:59
+
+User has seen the profile on date  07-11-2017 and time 13:36:47
+
+Successfully Logged out on date 07-11-2017 and time 13:36:56
+
+Successfully Logged in on date 07-11-2017 and time 13:38:33
+
+Successfully Logged out on date 07-11-2017 and time 13:40:49

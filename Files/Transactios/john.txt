@@ -1,0 +1,10 @@
+
+Successfully Logged in on date 28-11-2017 and time 17:11:30
+
+Successfully Logged out on date 28-11-2017 and time 17:11:34
+
+Successfully Logged in on date 14-12-2017 and time 15:21:41
+
+User has seen the profile on date  14-12-2017 and time 15:24:59
+
+Successfully Logged out on date 14-12-2017 and time 16:03:06

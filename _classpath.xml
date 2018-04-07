@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="TOMCAT_HOME/lib/servlet-api.jar"/>
+	<classpathentry kind="var" path="TOMCAT_HOME/lib/jasper.jar"/>
+	<classpathentry kind="var" path="TOMCAT_HOME/lib/jsp-api.jar"/>
+	<classpathentry kind="var" path="TOMCAT_HOME/lib/el-api.jar"/>
+	<classpathentry kind="var" path="TOMCAT_HOME/lib/annotations-api.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/commons-configuration-1.6.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/commons-fileupload-1.2.1.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/commons-net.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/cryptix-3.2.0.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/drw_ds.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/freemarker-2.3.16.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/hadoop-0.18.0-core.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/httpclient-4.3.1.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/httpcore-4.3.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/javassist-3.7.ga.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/mail.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/mysql-connector-java-5.1.17-bin.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/mysql-connector-java-5.1.6-bin.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/ognl-3.0.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/signpost-commonshttp4-1.2.1.2.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/signpost-core-1.2.1.2.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/slf4j.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/xwork-core-2.2.1.jar"/>
+	<classpathentry kind="src" path="WEB-INF/src"/>
+	<classpathentry kind="src" output="work" path="work"/>
+	<classpathentry kind="output" path="WEB-INF/classes"/>
+</classpath>

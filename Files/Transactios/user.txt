@@ -1,0 +1,236 @@
+
+Successfully Logged in on date 06-04-2016 and time 09:40:57
+
+Successfully Logged out on date 06-04-2016 and time 09:41:46
+
+Successfully Logged in on date 06-04-2016 and time 09:55:12
+
+Successfully Logged in on date 06-04-2016 and time 09:56:13
+
+Successfully Logged in on date 07-04-2016 and time 10:04:47
+
+Successfully Logged out on date 07-04-2016 and time 10:33:32
+
+Successfully Logged in on date 05-08-2016 and time 13:16:46
+
+User has uploaded file (sample3.txt) on date 05-08-2016 and time 13:16:58
+
+Successfully Logged in on date 05-08-2016 and time 13:18:17
+
+Successfully Logged out on date 05-08-2016 and time 13:19:34
+
+Successfully Logged in on date 05-08-2016 and time 13:19:42
+
+User has uploaded file (Testingpurpose.txt) on date 05-08-2016 and time 13:19:53
+
+User has downloaded file (Testingpurpose.txt) on date 05-08-2016 and time 13:20:18
+
+Successfully Logged in on date 05-08-2016 and time 13:24:57
+
+Successfully Logged out on date 05-08-2016 and time 16:31:06
+
+Successfully Logged in on date 05-08-2016 and time 16:31:11
+
+Successfully Logged in on date 05-08-2016 and time 16:32:46
+
+Successfully Logged in on date 05-08-2016 and time 16:37:02
+
+User has downloaded file (Testingpurpose.txt) on date 05-08-2016 and time 16:37:09
+
+Successfully Logged in on date 05-08-2016 and time 16:38:32
+
+Successfully Logged out on date 05-08-2016 and time 16:51:13
+
+Successfully Logged in on date 05-08-2016 and time 16:51:20
+
+Successfully Logged out on date 05-08-2016 and time 16:53:10
+
+Successfully Logged in on date 05-08-2016 and time 17:05:16
+
+User has seen the profile on date  05-08-2016 and time 17:05:17
+
+User has uploaded file (Test.txt) on date 05-08-2016 and time 17:07:02
+
+User has uploaded file (Test2.txt) on date 05-08-2016 and time 17:08:03
+
+User has downloaded file (Test2.txt) on date 05-08-2016 and time 17:08:30
+
+Successfully Logged out on date 05-08-2016 and time 17:08:43
+
+Successfully Logged in on date 27-01-2017 and time 00:04:22
+
+User has seen the profile on date  27-01-2017 and time 00:04:26
+
+Successfully Logged out on date 27-01-2017 and time 00:19:57
+
+Successfully Logged in on date 27-01-2017 and time 00:20:10
+
+Successfully Logged out on date 27-01-2017 and time 00:21:50
+
+Successfully Logged in on date 27-01-2017 and time 00:21:55
+
+Successfully Logged out on date 27-01-2017 and time 00:23:45
+
+Successfully Logged in on date 27-01-2017 and time 00:24:00
+
+Successfully Logged out on date 27-01-2017 and time 00:26:20
+
+Successfully Logged in on date 27-01-2017 and time 00:26:25
+
+Successfully Logged out on date 27-01-2017 and time 00:26:33
+
+Successfully Logged in on date 27-01-2017 and time 00:26:42
+
+Successfully Logged out on date 27-01-2017 and time 00:27:56
+
+Successfully Logged in on date 27-01-2017 and time 00:28:02
+
+Successfully Logged out on date 27-01-2017 and time 00:28:25
+
+Successfully Logged in on date 27-01-2017 and time 00:28:34
+
+Successfully Logged in on date 28-01-2017 and time 03:40:11
+
+User has uploaded file (samplefile.txt) on date 28-01-2017 and time 03:41:02
+
+Successfully Logged in on date 28-01-2017 and time 03:46:29
+
+User has uploaded file (samplefile.txt) on date 28-01-2017 and time 03:46:40
+
+Successfully Logged in on date 28-01-2017 and time 04:08:05
+
+User has uploaded file (samplefile.txt) on date 28-01-2017 and time 04:08:16
+
+Successfully Logged in on date 28-01-2017 and time 04:09:37
+
+Successfully Logged out on date 28-01-2017 and time 04:10:36
+
+Successfully Logged in on date 28-01-2017 and time 04:10:41
+
+User has uploaded file (samplefile.txt) on date 28-01-2017 and time 04:10:50
+
+Successfully Logged out on date 28-01-2017 and time 04:12:20
+
+Successfully Logged in on date 28-01-2017 and time 04:12:26
+
+User has uploaded file (samplefile.txt) on date 28-01-2017 and time 04:12:33
+
+Successfully Logged out on date 28-01-2017 and time 04:30:08
+
+Successfully Logged in on date 28-01-2017 and time 04:30:13
+
+Successfully Logged in on date 28-01-2017 and time 04:31:03
+
+Successfully Logged in on date 30-01-2017 and time 00:06:46
+
+Successfully Logged in on date 30-01-2017 and time 18:16:22
+
+User has uploaded file (samplefile.txt) on date 30-01-2017 and time 18:16:58
+
+Successfully Logged in on date 30-01-2017 and time 18:19:22
+
+Successfully Logged in on date 30-01-2017 and time 18:27:14
+
+User has uploaded file (samplefile.txt) on date 30-01-2017 and time 18:27:41
+
+Successfully Logged in on date 30-01-2017 and time 18:29:58
+
+Successfully Logged out on date 30-01-2017 and time 18:33:02
+
+Successfully Logged in on date 30-01-2017 and time 18:33:07
+
+Successfully Logged in on date 30-01-2017 and time 18:37:49
+
+User has seen the profile on date  30-01-2017 and time 18:38:11
+
+Successfully Logged out on date 30-01-2017 and time 18:42:44
+
+Successfully Logged in on date 30-01-2017 and time 18:44:18
+
+Successfully Logged in on date 01-02-2017 and time 11:39:20
+
+Successfully Logged in on date 01-02-2017 and time 11:43:21
+
+Successfully Logged in on date 01-02-2017 and time 11:44:02
+
+Successfully Logged in on date 01-02-2017 and time 11:45:38
+
+Successfully Logged out on date 01-02-2017 and time 11:48:36
+
+Successfully Logged in on date 01-02-2017 and time 11:48:42
+
+Successfully Logged out on date 01-02-2017 and time 11:50:07
+
+Successfully Logged in on date 01-02-2017 and time 12:01:11
+
+Successfully Logged in on date 01-02-2017 and time 12:01:29
+
+Successfully Logged out on date 01-02-2017 and time 12:01:34
+
+Successfully Logged in on date 01-02-2017 and time 12:02:42
+
+Successfully Logged in on date 06-04-2017 and time 22:45:35
+
+Successfully Logged out on date 06-04-2017 and time 23:01:03
+
+Successfully Logged in on date 06-04-2017 and time 23:01:07
+
+User has uploaded file (Dec_hadoop_commands.txt) on date 06-04-2017 and time 23:01:17
+
+User has uploaded file (Dec_testingfile.txt) on date 06-04-2017 and time 23:03:38
+
+User has uploaded file (testingfile.txt) on date 06-04-2017 and time 23:07:07
+
+Successfully Logged in on date 28-04-2017 and time 17:15:22
+
+Successfully Logged in on date 02-05-2017 and time 19:07:12
+
+Successfully Logged in on date 03-05-2017 and time 15:50:42
+
+Successfully Logged in on date 04-05-2017 and time 11:30:04
+
+Successfully Logged out on date 04-05-2017 and time 12:07:28
+
+Successfully Logged in on date 04-05-2017 and time 12:07:34
+
+Successfully Logged in on date 04-05-2017 and time 12:09:30
+
+Successfully Logged out on date 04-05-2017 and time 12:30:01
+
+Successfully Logged in on date 04-05-2017 and time 12:30:07
+
+Successfully Logged out on date 04-05-2017 and time 12:35:36
+
+Successfully Logged in on date 04-05-2017 and time 12:51:59
+
+Successfully Logged out on date 04-05-2017 and time 13:20:49
+
+Successfully Logged in on date 04-05-2017 and time 13:23:50
+
+Successfully Logged out on date 04-05-2017 and time 13:25:02
+
+Successfully Logged in on date 04-05-2017 and time 13:25:07
+
+Successfully Logged out on date 04-05-2017 and time 15:21:17
+
+Successfully Logged in on date 04-05-2017 and time 15:21:23
+
+Successfully Logged out on date 04-05-2017 and time 15:47:23
+
+Successfully Logged in on date 04-05-2017 and time 15:47:29
+
+Successfully Logged out on date 04-05-2017 and time 15:56:09
+
+Successfully Logged in on date 04-05-2017 and time 15:56:15
+
+Successfully Logged out on date 04-05-2017 and time 16:52:59
+
+Successfully Logged in on date 04-05-2017 and time 16:53:10
+
+Successfully Logged in on date 04-05-2017 and time 17:04:04
+
+Successfully Logged out on date 04-05-2017 and time 17:09:34
+
+Successfully Logged in on date 04-05-2017 and time 17:09:45
+
+Successfully Logged in on date 07-11-2017 and time 13:41:05

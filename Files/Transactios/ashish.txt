@@ -1,0 +1,16 @@
+
+Successfully Logged in on date 12-03-2016 and time 17:06:59
+
+User has seen the profile on date  12-03-2016 and time 17:07:05
+
+User has edited profile on date 12-03-2016 and time 17:07:10
+
+User has seen the profile on date  12-03-2016 and time 17:07:11
+
+User has seen the profile on date  12-03-2016 and time 17:07:13
+
+User has uploaded file (JavaV0.txt) on date 12-03-2016 and time 17:08:05
+
+User has downloaded file (JavaV0.txt) on date 12-03-2016 and time 17:11:47
+
+Successfully Logged out on date 12-03-2016 and time 17:16:44
